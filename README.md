@@ -1,6 +1,8 @@
 # TextCrunch
 ---
 
+This is a force push to my own repository for geolocation that will be merged to the organization repository later.
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gcoomber/TextCrunch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Textcrunch is an iOS application(iOS7 or later) that makes buying and selling textbooks easy for students.
